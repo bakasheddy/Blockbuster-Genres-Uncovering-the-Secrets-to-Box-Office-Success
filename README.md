@@ -1,2 +1,0 @@
-# TMDB-movies-Analysis
-This project was done to answer two major questions,  What kinds of properties are associated with movies that have high revenues? And Which genres are most popular from year to year?.  For this project, i have downloaded the TMDb's movie data from udacity's project 1 course. The dataset has about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
